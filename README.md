@@ -36,3 +36,14 @@ An interactive Power BI dashboard developed to analyze banking customers, loans,
 
 ## Project Type
 Portfolio project using synthetic banking data for analytical and learning purposes.
+## Dashboard Preview
+
+### Page 1: Executive Overview
+![Executive Overview](Banking-Executive-Overview.png)
+
+### Page 2: Loan Analysis
+![Loan Analysis](Banking-Loan-Analysis.png)
+
+### Page 3: Customer & Payment Analysis
+![Customer & Payment Analysis](Banking-Customer-Payment-Analysis.png)
+
